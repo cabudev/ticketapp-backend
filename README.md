@@ -1,0 +1,2 @@
+# ticketapp-backend
+NodeJS, SocketIO
